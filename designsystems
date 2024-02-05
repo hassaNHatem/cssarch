@@ -1,0 +1,8 @@
+atomic design is deviding the componenets into atoms , moliciols , orgnism , templeates and pages 
+
+atoms are the only componenets that can exsist on its own
+
+system design in general is the creation of all atoms , thier guidelines , best practices and how to merge them togeather to create a moliciols
+
+your role as an engineer 
+    you need to transliate the guildlines into reusable code that can be used to create products in the future
